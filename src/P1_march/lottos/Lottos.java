@@ -1,4 +1,4 @@
-package P1_march;
+package P1_march.lottos;
 
 import java.util.HashMap;
 import java.util.Map;
