@@ -1,4 +1,4 @@
-package P1_march.findNumbers;
+package Practice.P1_march.findNumbers;
 
 import java.util.HashMap;
 import java.util.Map;

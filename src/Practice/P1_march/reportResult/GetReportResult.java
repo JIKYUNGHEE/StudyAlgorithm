@@ -1,4 +1,4 @@
-package P1_march.reportResult;
+package Practice.P1_march.reportResult;
 
 import java.util.*;
 import java.util.stream.Collectors;

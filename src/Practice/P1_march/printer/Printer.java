@@ -1,4 +1,4 @@
-package P2_march.stackNqueue.printer;
+package Practice.P1_march.printer;
 
 import java.util.Arrays;
 import java.util.LinkedList;
