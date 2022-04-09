@@ -1,11 +1,11 @@
-package RealTest.T2_march.showMetheCode;
+package RealTest.T1_march.showMetheCode;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class ShowMeTheCode_A {
+public class Main {
     static int N;  //물약의 종류
     static List<Integer> originCostList; //물약의 가격 리스트
     static Map<Integer, List<WaterMedicine>> discountMap = new HashMap<>(); //물약의 종류에 따라 할인되는 물약 리스트
